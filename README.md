@@ -1,11 +1,9 @@
-<h1 align="center">Hi, I'm Juna</h1>
-<h3 align="center">A hobby Developer, looking to learn new Stuff and Automate every Day life.</h3>
+<h1 align="center">Ello! I am Juna</h1>
+<h3 align="center">A hobby developer at night and a professional daydreamer all day.</h3>
 
-- I’m currently working on **a Discord Bot for a Community**
+- I’m currently working on **a Discord Bot for a Community** an an **automisation for discord updates on linux**
   
-- Ask me about anything you want to know about me.
-  
-- Fun fact **I think i am stupid and have very little knowledge**
+- Fun fact: **I once forgot my phone in the fridge**
 <br></br>
 # Tech Stack:
 <h4 align="center"> Software
@@ -38,19 +36,16 @@
 <br></br>
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GitJuna&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=GitJuna&theme=cobalt&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=GitJuna&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=GitJuna&theme=highcontrast&hide_border=false)
 
-
-# GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GitJuna&theme=cobalt&no-frame=true&no-bg=true&margin-w=4)
 
 ## Socials:
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/MagicanJuna) 
 
 
-<div align="center">
+<div align="left">
   
-  [![](https://visitcount.itsvg.in/api?id=GitJuna&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=GitJuna&color=brightgreen&style=flat-square&label=You+Are+Internet+Stranger+Number)
   
 </div>
